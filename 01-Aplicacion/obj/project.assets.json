@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\02-Dominio.csproj",
-      "projectName": "02-Dominio",
-      "projectPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\02-Dominio.csproj",
+      "projectUniqueName": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\01-Aplicacion.csproj",
+      "projectName": "01-Aplicacion",
+      "projectPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\01-Aplicacion.csproj",
       "packagesPath": "C:\\Users\\Noelia\\.nuget\\packages\\",
-      "outputPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\obj\\",
+      "outputPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _02_Dominio
-build_property.ProjectDir = D:\Noelia\Descargas\NCapas-main\NCapas-main\02-Dominio\
+build_property.RootNamespace = _00_Presentación
+build_property.ProjectDir = D:\Noelia\Descargas\NCapas-main\NCapas-main\00-Presentación\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\02-Dominio.csproj": {}
+    "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\00-Presentación\\00-Presentación.csproj": {}
   },
   "projects": {
-    "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\02-Dominio.csproj": {
+    "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\00-Presentación\\00-Presentación.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\02-Dominio.csproj",
-        "projectName": "02-Dominio",
-        "projectPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\02-Dominio.csproj",
+        "projectUniqueName": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\00-Presentación\\00-Presentación.csproj",
+        "projectName": "00-Presentación",
+        "projectPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\00-Presentación\\00-Presentación.csproj",
         "packagesPath": "C:\\Users\\Noelia\\.nuget\\packages\\",
-        "outputPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\02-Dominio\\obj\\",
+        "outputPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\00-Presentación\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
