@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\01-Aplicacion.csproj": {}
+    "C:\\Users\\Compaq\\Desktop\\Nueva carpeta\\NCapas\\01-Aplicacion\\01-Aplicacion.csproj": {}
   },
   "projects": {
-    "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\01-Aplicacion.csproj": {
+    "C:\\Users\\Compaq\\Desktop\\Nueva carpeta\\NCapas\\01-Aplicacion\\01-Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\01-Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Compaq\\Desktop\\Nueva carpeta\\NCapas\\01-Aplicacion\\01-Aplicacion.csproj",
         "projectName": "01-Aplicacion",
-        "projectPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\01-Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\Noelia\\.nuget\\packages\\",
-        "outputPath": "D:\\Noelia\\Descargas\\NCapas-main\\NCapas-main\\01-Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\Compaq\\Desktop\\Nueva carpeta\\NCapas\\01-Aplicacion\\01-Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Compaq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Compaq\\Desktop\\Nueva carpeta\\NCapas\\01-Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Noelia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Compaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01_Aplicacion
 {
-    internal class CrearAutomovil
+    public class CrearAutomovil
     {
     }
 }
